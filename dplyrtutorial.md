@@ -19,9 +19,13 @@ I made use of the following reference materials when creating this tutorial and 
 If you are new to using RStudio you will need to get setup first by...
 
 1. Installing R from the R Archive:
-i. Pick a mirror close-by (geographically speaking), e.g in UK – [University of Bristol](https://www.stats.bris.ac.uk/R/), [Imperial College London](https://cran.ma.imperial.ac.uk/)
-ii. Mac tip: make sure that you check the MD5 hash and SHA hash match. You can do this quickly and easily in terminal. As shown in this video: <https://youtu.be/HHdrIlHS2-4>
-iii. [Mac only] XQuartz Install – information about this is provided at R Archive above.
+
+    i. Pick a mirror close-by (geographically speaking), e.g in UK – [University of Bristol](https://www.stats.bris.ac.uk/R/), [Imperial College London](https://cran.ma.imperial.ac.uk/)
+
+    ii. Mac tip: make sure that you check the MD5 hash and SHA hash match. You can do this quickly and easily in terminal. As shown in this video: <https://youtu.be/HHdrIlHS2-4>
+
+    iii. [Mac only] XQuartz Install – information about this is provided at R Archive above.
+
 2. Install RStudio: again do check the MD5. You can get the installer here – <https://www.rstudio.com/products/rstudio/download/#download>
 
 
