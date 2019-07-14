@@ -9,9 +9,9 @@ You have been sent a text file, or you have copy and pasted from a Microsoft Wor
 This data used in this tutorial was simulated and fabricated from the imagination of Fiona MacNeill on 28 June 2019.
 
 I made use of the following reference materials when creating this tutorial and I owe the authors my gratitude as always:
-About dplyr: <https://dplyr.tidyverse.org/>
-The ever-useful dplyr cheatsheet: <https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf>
-About 'join': <https://dplyr.tidyverse.org/reference/join.html>
+<br>About dplyr: <https://dplyr.tidyverse.org/>
+<br>The ever-useful dplyr cheatsheet: <https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf>
+<br>About 'join': <https://dplyr.tidyverse.org/reference/join.html>
 
 ## Geting started
 
@@ -62,31 +62,8 @@ pplnames
 
 ```
 
-e.g. to see these tables correctly you need to download the zip file for this tutorial and run it in RStudio.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio.
 
-
-         V1         V2   V3
-1      Andy    Neptune     
-2      Alan        Sun     
-3     Anton      James Moon
-4      Amal      Hades     
-5      Alex       Hera     
-6     Aidan    Mercury     
-7    Arthur   Ganymede     
-8  Antigone   Callisto     
-9     Barry     Thrace     
-10    Bevin    Proxima     
-11   Barney     Wolfen     
-12   Barron  Tau-Alpha     
-13   Caesar        Sol     
-14    Cairn       Rock     
-15   Bessie     Torino     
-16   Bethan    Palermo     
-17    Betty   Toutalis     
-18    Alvin      Ceres     
-19     Adam Iris-Pupil     
-20    Anita       Hebe     
-21     Baez       Nabu   
 
 ```{r get that pesky text data into a more useful format}
 
@@ -98,21 +75,8 @@ people
 
 ```
 
-e.g. to see these tables correctly you need to download the zip file for this tutorial and run it in RStudio.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio.
 
-
-**first**	**last**
-<chr>	<chr>
-Andy	Neptune			
-Alan	Sun			
-Anton	James Moon			
-Amal	Hades			
-Alex	Hera			
-Aidan	Mercury			
-Arthur	Ganymede			
-Antigone	Callisto			
-Barry	Thrace			
-Bevin	Proxima
 
 ## 4. Now we are going to bring in our Excel file
 
@@ -127,7 +91,7 @@ names(ppl_user)
 # This command allows us to find out the column names in our new data. Hmmm they are different from what we named the columns from our text file. These need to match. We could change the text file, but it is best to avoid spaces in column headers, so lets simplify it.
 
 ```
-
+What you would see in RStudio:
 [1] "First Name" "Last Name"  "Username"
 
 ## 5. Lets match those column names and simplify it
@@ -144,20 +108,7 @@ ppl_user
 
 ```
 
-e.g. to see these tables correctly you need to download the zip file for this tutorial and run it in RStudio.
-
-**first**	**last**	**username**
-<chr>	<chr>	<chr>
-Alice	Apollo	aap11		
-Agatha	Pluto	apl5		
-Andy	Neptune	ane15		
-Alan	Sun	asu24		
-Anton James	Moon	amo23		
-Amal	Hades	aha6		
-Alex	Hera	ahe12		
-Aidan	Mercury	ame20		
-Angharad	Jupiter	aju1		
-Amanda	Mars	ama26
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio.
 
 ## 6. Now for the magic - lets join together these data sets
 
@@ -172,20 +123,7 @@ combined %>% arrange(first)
 # If you are wondering this '%>%' is a pipe and it is specific to the dplyr package it is a way of piping data through commands (or at least that is how I think of it) for example as outlined on the dplyr cheatsheet (https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf), x %>% f(y) becomes f(x, y). In this example I want to order my data by the first name in alphabetical order.
 
 ```
-e.g. to see these tables correctly you need to download the zip file for this tutorial and run it in RStudio.
-
-**first** **last** **username**
-<chr>	<chr>	<chr>
-Adam	Iris-Pupil	air16		
-Aidan	Mercury	ame20		
-Alan	Sun	asu24		
-Alex	Hera	ahe12		
-Alvin	Eunomia	aeu16		
-Alvin	Ceres	ace1		
-Amal	Hades	aha6		
-Andy	Neptune	ane15		
-Anita	Hebe	ahe16		
-Antigone	Callisto	aca20
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio.
 
 ## 7. Now you can export your data as a spreadsheet
 
