@@ -1,5 +1,5 @@
 # VLOOKUP-style using dplyr
-Creating a new data set from ashes of broken dreams.
+Creating a new data set from the ashes of broken dreams.
 
 <img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
 via <a href="https://giphy.com/" target="_blank">GIPHY</a>
