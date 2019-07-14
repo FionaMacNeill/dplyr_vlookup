@@ -10,7 +10,7 @@ via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
-###### Information to verify the zip file - <br> md5: ad82d6d4e1006c45c22ea72eb4aa0f9d  <br> sha1: e6bfe331c5cd27b9c126bed3ea8cc3655a540470<br>
+###### Information to verify the zip file - <br> md5: 3159934de929e246a055568619dcb543  <br> sha1: ff18e8a269145d596635f7e9a847837bf1fa22f8<br>
 
 How to check md5 and sha1 on a Mac (YouTube Video): 
 
