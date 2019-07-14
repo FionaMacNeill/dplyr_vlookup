@@ -1,8 +1,8 @@
 # VLOOKUP-style using dplyr
 Creating a new data set from the ashes of broken dreams.
 
-Gagnam-style and @pusheen cat <img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
-via <a href="https://giphy.com/" target="_blank">GIPHY</a>
+<img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
+Gagnam-style and @pusheen cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
