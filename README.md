@@ -1,8 +1,9 @@
 # VLOOKUP-style using dplyr
-Creating a new data set from the ashes of broken dreams.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">VLOOKUP-style using dplyr</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/FionaMacNeill/dplyr_vlookup/blob/master/README.md" property="cc:attributionName" rel="cc:attributionURL">Fiona MacNeill</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://dplyr.tidyverse.org/" rel="dct:source">https://dplyr.tidyverse.org/</a>.
 
 <img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
-Gagnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</a> cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
+Gangnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</a> cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
@@ -10,7 +11,7 @@ Gagnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</a
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
-###### Information to verify the zip file - <br> md5: cb1925fa1abadaeff1c1d34a64c697be  <br> sha1: 531a951a2e91dd5defdc2ccacac8e74a77116d14<br>
+###### Information to verify the zip file - <br> md5: 5f3e5667adad7540eac13dad836b9e1c  <br> sha1: a5a2ba362cd20356ddf221a0e8ac07700870d30f<br>
 
 How to check md5 and sha1 on a Mac (YouTube Video): 
 
