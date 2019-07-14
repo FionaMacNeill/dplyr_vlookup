@@ -2,7 +2,7 @@
 Creating a new data set from the ashes of broken dreams.
 
 <img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
-Gagnam-style and @pusheen cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
+Gagnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</a> cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
