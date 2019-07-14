@@ -6,7 +6,7 @@ via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
-**Read the tutorial here:** [../master/dplyr_vlookup.md](../master/dplyr_vlookup.md)
+**Read the tutorial here:** [../master/dplyrtutorial.md](../master/dplyrtutorial.md)
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
