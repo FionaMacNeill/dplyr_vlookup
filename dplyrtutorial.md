@@ -125,7 +125,7 @@ combined <- semi_join(ppl_user, people,  by = "first")
 # My new combined data set. 'Semi_join' is one of joins and it is an incredibly versatile command, especially helpful for matching huge datasets. For more info type 'join' into your help tab.
 
 combined %>% arrange(first)
-# If you are wondering this '%>%' is a pipe and it is specific to the dplyr package it is a way of piping data through commands (or at least that is how I think of it) for example as outlined on the dplyr cheatsheet (https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf), x %>% f(y) becomes f(x, y). In this example I want to order my data by the first name in alphabetical order.
+# In case you are wondering, this '%>%' is a pipe and it is specific to the dplyr package it is a way of piping data through commands (or at least that is how I think of it) for example as outlined on the dplyr cheatsheet (https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf), x %>% f(y) becomes f(x, y). In this example I want to order my data by the first name in alphabetical order.
 
 ```
 **Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio.
