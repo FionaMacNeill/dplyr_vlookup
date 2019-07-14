@@ -67,7 +67,7 @@ pplnames
 
 ```
 
-**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](/master/dplyr_vlookup.pdf) to see the tables.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](dplyr_vlookup.pdf) to see the tables.
 
 
 ```{r get that pesky text data into a more useful format}
@@ -80,7 +80,7 @@ people
 
 ```
 
-**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](/master/dplyr_vlookup.pdf) to see the tables.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](dplyr_vlookup.pdf) to see the tables.
 
 
 ## 4. Now we are going to bring in our Excel file
@@ -113,7 +113,7 @@ ppl_user
 
 ```
 
-**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](/master/dplyr_vlookup.pdf) to see the tables.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](dplyr_vlookup.pdf) to see the tables.
 
 ## 6. Now for the magic - lets join together these data sets
 
@@ -128,7 +128,7 @@ combined %>% arrange(first)
 # In case you are wondering, this '%>%' is a pipe and it is specific to the dplyr package it is a way of piping data through commands (or at least that is how I think of it) for example as outlined on the dplyr cheatsheet (https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf), x %>% f(y) becomes f(x, y). In this example I want to order my data by the first name in alphabetical order.
 
 ```
-**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](/master/dplyr_vlookup.pdf) to see the tables.
+**Please note**, to see the tables you need to download the zip file for this tutorial and run it in RStudio. You may find it easier to take a quick look at the [PDF version](dplyr_vlookup.pdf) to see the tables.
 
 ## 7. Now you can export your data as a spreadsheet
 
