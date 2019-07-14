@@ -11,7 +11,7 @@ Gangnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
-###### Information to verify the zip file - <br> md5: cb1925fa1abadaeff1c1d34a64c697be  <br> sha1: 531a951a2e91dd5defdc2ccacac8e74a77116d14<br>
+###### Information to verify the zip file - <br> md5: 5f3e5667adad7540eac13dad836b9e1c  <br> sha1: a5a2ba362cd20356ddf221a0e8ac07700870d30f<br>
 
 How to check md5 and sha1 on a Mac (YouTube Video): 
 
