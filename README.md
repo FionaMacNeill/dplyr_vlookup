@@ -2,7 +2,7 @@
 Creating a new data set from the ashes of broken dreams.
 
 <img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
-via <a href="https://giphy.com/" target="_blank">GIPHY</a>
+Gagnam-style and <a href="https://giphy.com/pusheen" target="_blank">@pusheen</a> cat via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
@@ -10,7 +10,7 @@ via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
-###### Information to verify the zip file - <br> md5: 3159934de929e246a055568619dcb543  <br> sha1: ff18e8a269145d596635f7e9a847837bf1fa22f8<br>
+###### Information to verify the zip file - <br> md5: cb1925fa1abadaeff1c1d34a64c697be  <br> sha1: 531a951a2e91dd5defdc2ccacac8e74a77116d14<br>
 
 How to check md5 and sha1 on a Mac (YouTube Video): 
 

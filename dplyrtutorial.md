@@ -14,7 +14,7 @@ I made use of the following reference materials when creating this tutorial and 
 <br>- The ever-useful dplyr cheatsheet: <https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf>
 <br>- About 'join': <https://dplyr.tidyverse.org/reference/join.html>
 
-## Geting started
+## Getting started
 
 If you are new to using RStudio you will need to get setup first by...
 
