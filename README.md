@@ -1,11 +1,12 @@
 # VLOOKUP-style using dplyr
-Creating a new data set from ashes of broken dreams.
+Creating a new data set from the ashes of broken dreams.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/11XNtjXJeOL6Gk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitty-gagnam-style-cute-11XNtjXJeOL6Gk">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/11XNtjXJeOL6Gk/giphy.gif" width="240" />
+via <a href="https://giphy.com/" target="_blank">GIPHY</a>
 
 <hr>
 
-**Read the tutorial here:** [../master/dplyr_vlookup.md](../master/dplyr_vlookup.md)
+**Read the tutorial here:** [../master/dplyrtutorial.md](../master/dplyrtutorial.md)
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/dplyr_vlookup_tutorial.zip?raw=true).**
 
